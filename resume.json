@@ -13,40 +13,49 @@
     "hidden": false
   },
   "profile": {
-    "name": "廖晓娟 (新茗)",
-    "email": "736xxxx86@qq.com",
-    "mobile": "156xxxx7119",
-    "github": "https://github.com/visiky (1.1k 粉丝)",
-    "zhihu": "https://www.zhihu.com/people/visiky",
-    "workExpYear": ""
+    "name": "胡伟",
+    "email": "huweizdt@163.com",
+    "mobile": "18970390648",
   },
   "educationList": [
     {
       "edu_time": [
-        "2014.09.01",
-        "2018.06.30"
+        "2018.09.01",
+        "2022.06.30"
       ],
-      "school": "华南理工大学",
-      "major": "网络工程",
-      "academic_degree": "本科"
+      "school": "西安邮电大学",
+      "major": "软件工程",
+      "academic_degree": "学业排名TOP5%"
+    },
+    {
+      "edu_time": [
+        "2022.09.01",
+        "2025.06.30"
+      ],
+      "school": "电子科技大学",
+      "major": "软件工程"
     }
   ],
   "awardList": [
     {
       "award_info": "英语 CET6",
-      "award_time": "2015"
+      "award_time": "2021"
     },
     {
-      "award_info": "蚂蚁近卫军 卓越个人奖",
-      "award_time": "2018.09"
+      "award_info": "全国大学生数学竞赛(省一)",
+      "award_time": "2022"
     },
     {
-      "award_info": "前端练习生 可视化讲师",
-      "award_time": "2020.10"
+      "award_info": "高校人工智能创意赛(西南赛区三等)",
+      "award_time": "2022"
     },
     {
-      "award_info": "前端早早聊 分享 “如何构思和开发开箱即用的可视化图表库 G2Plot”",
-      "award_time": "2021.07"
+      "award_info": "本科多次获得一等奖学金",
+      "award_time": "2019-2022"
+    },
+    {
+      "award_info": "研究生期间多次获得奖学金”",
+      "award_time": "2022-2024"
     }
   ],
   "workExpList": [
